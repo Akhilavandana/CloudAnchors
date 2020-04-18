@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "244820460337",
+    "firebase_url": "https://anchor-c6cea.firebaseio.com",
+    "project_id": "anchor-c6cea",
+    "storage_bucket": "anchor-c6cea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244820460337:android:fe08022a60c2d7a35de610",
+        "android_client_info": {
+          "package_name": "com.google.ar.core.examples.java.cloudanchor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244820460337-940uc97nmln65i76da3aoe1af6vh83ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBOkkqySSUYb_YghZFIxucX7uXS4hCd9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244820460337-940uc97nmln65i76da3aoe1af6vh83ae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
